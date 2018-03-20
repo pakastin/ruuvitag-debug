@@ -1,0 +1,12 @@
+{
+  "name": "ruuvitag-debug",
+  "version": "1.0.1",
+  "description": "Debug your Ruuvitags",
+  "bin": "ruuvitag-debug",
+  "scripts": {},
+  "author": "Juha Lindstedt",
+  "license": "ISC",
+  "dependencies": {
+    "node-ruuvitag": "~4.1.0"
+  }
+}
