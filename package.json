@@ -2,7 +2,7 @@
   "name": "ruuvitag-debug",
   "version": "1.0.1",
   "description": "Debug your Ruuvitags",
-  "bin": "ruuvitag-debug",
+  "bin": "bin/ruuvitag-debug",
   "scripts": {},
   "author": "Juha Lindstedt",
   "license": "ISC",

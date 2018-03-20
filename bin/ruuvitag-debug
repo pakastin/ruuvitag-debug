@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+
+const ruuvi = require('node-ruuvitag');
+
+ruuvi.on('found', tag => {
+  tag.on('updated', data => {
+    const { id } = tag;
+
+    console.log({
+      id,
+      ...data
+    });
+  });
+});
