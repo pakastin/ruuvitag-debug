@@ -14,4 +14,4 @@ ruuvitag-debug
 ## Description
 When you run this program, it will start to print data from Ruuvitags.
 
-notice: ID is added to the data itself to make output clearer.
+_ID is added to the data itself to make output clearer._
