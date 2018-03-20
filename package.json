@@ -2,11 +2,22 @@
   "name": "ruuvitag-debug",
   "version": "1.0.1",
   "description": "Debug your Ruuvitags",
-  "bin": "bin/ruuvitag-debug",
+  "bin": {
+    "ruuvitag-debug": "bin/ruuvitag-debug"
+  },
   "scripts": {},
   "author": "Juha Lindstedt",
   "license": "ISC",
   "dependencies": {
     "node-ruuvitag": "~4.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakastin/ruuvitag-debug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pakastin/ruuvitag-debug/issues"
+  },
+  "homepage": "https://github.com/pakastin/ruuvitag-debug#readme"
 }
