@@ -5,6 +5,7 @@
   "bin": {
     "ruuvitag-debug": "bin/ruuvitag-debug"
   },
+  "main": "server.js",
   "scripts": {},
   "author": "Juha Lindstedt",
   "license": "ISC",
