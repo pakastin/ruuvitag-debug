@@ -1,6 +1,6 @@
 {
   "name": "ruuvitag-debug",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Debug your Ruuvitags",
   "bin": {
     "ruuvitag-debug": "bin/ruuvitag-debug"
