@@ -3,7 +3,10 @@ Debug your Ruuvitags
 
 ## Installation
 ```bash
-sudo npm -g i ruuvitag-debug
+npm -g i ruuvitag-debug
+
+// or run with npx:
+npx ruuvitag-debug
 ```
 
 ## Run
