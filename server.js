@@ -1,4 +1,4 @@
-const ruuvi = require('@pakastin/node-ruuvitag');
+const ruuvi = require('node-ruuvitag');
 
 ruuvi.on('found', tag => {
   let previous;
