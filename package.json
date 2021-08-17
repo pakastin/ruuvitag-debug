@@ -10,7 +10,7 @@
   "author": "Juha Lindstedt",
   "license": "ISC",
   "dependencies": {
-    "node-ruuvitag": "~4.5.0"
+    "node-ruuvitag": "~4.6.1"
   },
   "devDependencies": {},
   "repository": {
